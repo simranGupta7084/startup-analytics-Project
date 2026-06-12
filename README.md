@@ -135,9 +135,4 @@ profit < 0                        →  HIGH risk   ❌
 - [ ] PDF report export
 
 ---
-
-## 💡 Why This Project
-
-This isn't a todo app. It combines **full-stack development + data analytics + business logic** in one production-style system — making it strong for resumes, GitHub portfolios, and placement interviews.
-
 **Skills demonstrated:** REST API design · MongoDB schema design · React component architecture · Chart-based analytics UI · Modular backend structure · Responsive dashboard design
